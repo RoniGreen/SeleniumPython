@@ -1,0 +1,1 @@
+use selenium, play cookie clicker with bot
